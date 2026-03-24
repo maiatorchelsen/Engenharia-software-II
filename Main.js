@@ -18,3 +18,5 @@ function calcularAreaRetangulo(base, altura) {
     const area = base * altura;
     return area;
 }   
+console.log(calcularAreaRetangulo(5, 3)); // Saída: 15
+console.log(calcularAreaRetangulo(10, 4)); // Saída: 40
