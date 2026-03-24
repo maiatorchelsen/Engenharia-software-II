@@ -20,3 +20,4 @@ function calcularAreaRetangulo(base, altura) {
 }   
 console.log(calcularAreaRetangulo(5, 3)); // Saída: 15
 console.log(calcularAreaRetangulo(10, 4)); // Saída: 40
+console.log(calcularAreaRetangulo(7, 2)); // Saída: 14
